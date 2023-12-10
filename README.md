@@ -39,4 +39,7 @@ Statistics on bikeshare users:
 - Counts of gender
 - Earliest, most recent, and most common year of birth
 
+## Limitations
+
+The current program does not have a way to add new data (for example, of a new city). Future enhancements could be made to make this more convenient for users to upload more data files to make further analysis.
 
