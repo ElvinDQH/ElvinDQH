@@ -1,12 +1,12 @@
-#Bikeshare analytics
+# Bikeshare analytics
 
 Bikeshare.py is a simple program written in Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. User will be able to select the bikesharing data filtered by city, month and day of the week. Interesting descriptive statistics will be provided depending on the input combination of the user.
 
-##Installtion & Software Dependencies 
+## Installtion & Software Dependencies 
 
 Simply run ipython bikeshare.py to run the program. Make sure your terminal is pointing at this directory. 
 
-##Usage Information
+## Usage Information
 
 - As the first step: users will be prompted to input which city they would like the program to analyse, among the given cities: Chicago, New York City, and Washington. The program takes into account lower-cases and error-handling. 
 
@@ -18,7 +18,7 @@ Simply run ipython bikeshare.py to run the program. Make sure your terminal is p
 
 - Fifth step: finally, user may re-start the application to input a different combination of data filter.
 
-##Descriptive informations to be displayed
+## Descriptive informations to be displayed
 
 Statistics on the most frequent times of travel:
 - The most common month
